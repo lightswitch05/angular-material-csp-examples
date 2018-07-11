@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --aot=true --open",
-    "build": "ng build --base-href=./ --prod --aot=true --build-optimizer=true --delete-output-path=true --subresource-integrity=true",
+    "build": "ng build --base-href=./ --prod --delete-output-path=true --subresource-integrity=true",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
